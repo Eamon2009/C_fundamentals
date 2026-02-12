@@ -11,4 +11,5 @@ int main()
        printf("%d\n", integer);
        printf("%f\n", floating);
        printf("%c\n", character);
+       return 0;
 }
